@@ -11,12 +11,12 @@
 .nav-tit{ width: 100%; height: auto; text-align: center; margin-top: 5px; font-size: 0.875rem; color: #333333; }
 
 .advantage{ max-width: 710px; width: 94%; padding:3%; background-color: #f5f5f5; height: auto; }
-.advantage-o{ width: 32%; background-color: #ffffff; height: 235px; float: left; border-radius: 5px;}
-.ys-tit{ font-size: 1.125rem; color: #333333; width: 100%; text-align: center; margin-top: 27px; }
-.ys-cont{font-size: 0.75rem; color: #999999; width: 100%; text-align: center; line-height: 1.3rem; margin-top: 15px; }
-.ys-img{ text-align: center; margin-top: 13%; }
+.advantage-o{ width: 32%; background-color: #ffffff; height: 195px; float: left; border-radius: 5px;}
+.ys-tit{ font-size: 1.125rem; color: #333333; width: 100%; text-align: center; margin-top: 15px; }
+.ys-cont{font-size: 0.75rem; color: #999999; width: 100%; text-align: center; line-height: 1.3rem; margin-top: 5px; }
+.ys-img{ text-align: center; margin-top: 3%; }
 .ys-img img{
-	width: 60%;
+	width: 100%;
 }
 
 
@@ -25,9 +25,9 @@
 
 .choose{ max-width: 750px;  width: 100%; height: 76px; border-bottom: 1px solid #f9f9f9; }
 
-.x-title{ float: left; font-size: 28px; color: #333333; line-height: 76px; margin-left: 2.5%; }
+.x-title{ float: left; font-size: 1.125rem; color: #333333; line-height: 76px; margin-left: 2.5%; }
 .more{ float: right; cursor: pointer; line-height: 76px; margin-right: 2.5%;}
-.zi{ float: left; font-size: 1.425rem; color: #999999;}
+.zi{ float: left; font-size: 1.125rem; color: #999999;}
 .fh{float: left; width: 30px; height: 30px; background-color: #e0316c; border-radius: 30px; text-align: center; margin-top: 1.5rem; line-height: 28px; font-size: 1.8rem; color: #fff; 
 	margin-left: 10px; padding-left: 2px;}
 
