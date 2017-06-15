@@ -104,13 +104,13 @@ a{text-decoration:none;color: #636363; }
 .mc-input_yzm {
     float: left;
     width: 65%;
-    height: 40px;
+    height: 35px;
     border-bottom: 1px solid #ececec;
 }
 
 .mc-input_yzm input{
     width: 94%;
-    height: 40px;
+    height: 35px;
     font-size: 1.125rem;
     color: #999999;
     border: none;
