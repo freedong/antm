@@ -1,0 +1,25 @@
+{
+  "name": "ant_m",
+  "version": "1.0.0",
+  "description": "ant400移动站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freedong/antm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freedong/antm/issues"
+  },
+  "homepage": "https://github.com/freedong/antm#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.3.0",
+    "imagemin-pngquant": "^5.0.1"
+  }
+}
