@@ -1,8 +1,23 @@
 @charset "utf-8";
 /* CSS Document */
 
-body{font-weight:normal;color:#000;text-align:center;margin:0;padding:0;background:#fff;position:relative; max-width: 750px; margin: 0 auto;}
-body, button, input, select, textarea{font-size:16px;line-height:150%; font-family: "Microsoft YaHei";}
+body {
+    font-weight: normal;
+    color: #000;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    position: relative;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+body, button, input, select, textarea {
+   /* font-size: 16px;*/
+    line-height: 150%;
+    font-family: "Microsoft YaHei";
+}
 div,ol,ul,li,dir{text-align:left;margin:0;padding:0;border:0px;list-style-type:none;}
 form,img,span,h1,h2,h3,h4,h5{margin:0;padding:0;border:0;}
 table,td,th,p,dl,dt,dd,pre,tr{margin:0;padding:0;}
@@ -33,7 +48,7 @@ a{text-decoration:none;color: #636363; }
     position: absolute;
     top: 15px;
     left: 15px;
-    width: 30%;
+    width: 25%;
 
 }
 
@@ -48,7 +63,7 @@ a{text-decoration:none;color: #636363; }
     font-size: 1rem;
     color: #666666;
     position: absolute;
-    top: 18px;
+    top: 15px;
     right: 10px;
 }
 
@@ -56,7 +71,7 @@ a{text-decoration:none;color: #636363; }
 
 
 /*ppt-----start*/
-.sy_banner{ max-width:750px; width:100%; margin:25px auto;}
+.sy_banner{ max-width:750px; width:100%; margin:0px auto;}
 .sy_banner .mainbox{overflow:hidden;position:relative;}
 .sy_banner .flashbox{overflow:hidden;position:relative;}
 .sy_banner .imagebox{text-align:center;position:relative;z-index:99;}
