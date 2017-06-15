@@ -13,7 +13,7 @@
 .advantage{ max-width: 710px; width: 94%; padding:3%; background-color: #f5f5f5; height: auto; }
 .advantage-o{ width: 32%; background-color: #ffffff; height: 235px; float: left; border-radius: 5px;}
 .ys-tit{ font-size: 1rem; color: #333333; width: 100%; text-align: center; margin-top: 27px; }
-.ys-cont{font-size: 0.75rem; color: #999999; width: 100%; text-align: center; line-height: 1.5rem; margin-top: 15px; }
+.ys-cont{font-size: 0.75rem; color: #999999; width: 100%; text-align: center; line-height: 1.3rem; margin-top: 15px; }
 .ys-img{ text-align: center; margin-top: 13%; }
 .ys-img img{
 	width: 60%;
