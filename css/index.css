@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+.nav{ max-width: 750px; width: 100%; height: auto; }
+.nav ul li{ width: 25%; float: left; margin-bottom: 5%; }
+.nav-tu{ width: 100%; height: auto; text-align: center; }
+.nav-tit{ width: 100%; height: auto; text-align: center; margin-top: 15px; font-size: 0.8rem; color: #333333; }
+
+.advantage{ max-width: 710px; width: 94%; padding:3%; background-color: #f5f5f5; height: auto; }
+.advantage-o{ width: 31%; background-color: #ffffff; height: 300px; float: left; border-radius: 5px;}
+.ys-tit{ font-size: 28px; color: #333333; width: 100%; text-align: center; margin-top: 27px; }
+.ys-cont{font-size: 20px; color: #999999; width: 100%; text-align: center; line-height: 1.9rem; margin-top: 15px; }
+.ys-img{ text-align: center; margin-top: 13%; }
+
+
+.wrap{ max-width: 750px; width: 100% !important; margin: 10px auto 0; }
+.wrap ul li{ display: block; width: 140px; height: 140px; margin-left: 38px; }
+
+.choose{ max-width: 750px;  width: 100%; height: 76px; border-bottom: 1px solid #f9f9f9; }
+
+.x-title{ float: left; font-size: 28px; color: #333333; line-height: 76px; margin-left: 2.5%; }
+.more{ float: right; cursor: pointer; line-height: 76px; margin-right: 2.5%;}
+.zi{ float: left; font-size: 1.425rem; color: #999999;}
+.fh{float: left; width: 30px; height: 30px; background-color: #e0316c; border-radius: 30px; text-align: center; margin-top: 1.5rem; line-height: 28px; font-size: 1.8rem; color: #fff; 
+	margin-left: 10px; padding-left: 2px;}
+
+.hr{display: block; width: 56px; border: 4px solid #d92763; float: left; position: relative; top: -16px; left: 20px;}
+
+
+.mfhq{ max-width: 750px;  width: 100%; height: 76px; border-bottom: 1px solid #f9f9f9; }
+
+.mf-tit{ float: left; font-size: 28px; color: #333333; line-height: 76px; margin-left: 2.5%; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

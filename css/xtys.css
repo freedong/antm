@@ -1,0 +1,133 @@
+@charset "utf-8";
+
+
+.choose{ max-width: 750px;  width: 100%; height: 76px; border-bottom: 1px solid #f9f9f9; }
+
+
+.x-title {
+    float: left;
+    font-size: 28px;
+    color: #333333;
+    line-height: 76px;
+    margin-left: 2.5%;
+}
+
+
+.hr {
+    display: block;
+    width: 56px;
+    border: 4px solid #d92763;
+    float: left;
+    position: relative;
+    top: -16px;
+    left: 20px;
+}
+
+.bl-zsfw {
+    width: 95%;
+    height: auto;
+    margin: 4% auto 4%;
+}
+
+
+.bl-zs {
+    width: 31%;
+    height: auto;
+    border: 1px solid #f4f4f4;
+    box-shadow: 0px 0px 4px #f4f4f4;
+    padding-bottom: 4%;
+    float: left;
+    margin-right: 3%;
+}
+
+.zs-tu {
+    width: 46%;
+    height: auto;
+    text-align: center;
+    margin: 16px auto 0;
+}
+
+.zs-tu img {
+    width: 100%;
+}
+
+
+.zs-tit {
+    width: 100%;
+    height: auto;
+    color: #333333;
+    font-size: 1.75rem;
+    text-align: center;
+    margin-top: 12%;
+}
+
+
+.zs-tent {
+    width: 100%;
+    height: auto;
+    color: #999999;
+    font-size: 1.25rem;
+    text-align: center;
+    margin-top: 9%;
+    line-height: 30px;
+}
+
+
+.zs-zxzx{
+    text-align: center;
+}
+
+
+
+.wrap{ max-width: 750px; width: 100% !important; margin: 10px auto 0; }
+.wrap ul li{ display: block; width: 140px; height: 140px; margin-left: 38px; }
+
+.choose{ max-width: 750px;  width: 100%; height: 76px; border-bottom: 1px solid #f9f9f9; }
+
+.x-title{ float: left; font-size: 28px; color: #333333; line-height: 76px; margin-left: 2.5%; }
+.more{ float: right; cursor: pointer; line-height: 76px; margin-right: 2.5%;}
+.zi{ float: left; font-size: 1.425rem; color: #999999;}
+.fh{float: left; width: 30px; height: 30px; background-color: #e0316c; border-radius: 30px; text-align: center; margin-top: 1.5rem; line-height: 28px; font-size: 1.8rem; color: #fff;
+    margin-left: 10px; padding-left: 2px;}
+
+.hr{display: block; width: 56px; border: 4px solid #d92763; float: left; position: relative; top: -16px; left: 20px;}
+
+
+.banner4 {
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin: 24px auto 0;
+    position: relative;
+}
+
+.banner4 a{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    display: inline-block;
+    width: 190px;
+    height: 36px;
+    line-height: 36px;
+    background: -webkit-linear-gradient(145deg,#5890fb, #3acbff); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(145deg,#5890fb, #3acbff); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(145deg,#5890fb, #3acbff); /* Firefox 3.6 - 15 */
+    background: linear-gradient(145deg,#5890fb, #3acbff); /* 标准的语法 */
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

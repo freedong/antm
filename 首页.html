@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>首页</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<link rel="stylesheet" type="text/css" href="css/public.css">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="js/marquee.js"></script>
+	<script type="text/javascript" src="js/pptBox.js"></script>
+</head>
+<body>
+
+<div class="main">
+	<div>
+		<div class="logo"><img src="images/logo.png" alt=""></div>
+		<div class="ph"><a href="tel:4006-86-4006">官方热线：4006-86-4006</a></div>
+	</div>
+	<div class="clearB"></div>
+
+	
+<!--banner-->
+<div class="sy_banner">
+    <div id="xxx">
+        <script>
+            var box =new PPTBox();
+            box.width =$(".sy_banner").width(); //宽度
+            box.height = 200;//高度
+            box.autoplayer = 4;//自动播放间隔时间
+            box.add({"url":"images/banner.png","href":"#","title":"banner1"})
+            box.add({"url":"images/banner1.png","href":"#","title":"banner2"})
+            box.add({"url":"images/banner2.png","href":"#","title":"banner3"})
+            //box.add({"url":"images/banner1.jpg","href":"#","title":"banner4"})
+            box.show();
+        </script>
+    </div>
+</div>
+
+<div class="nav">
+	<ul>
+		<a href="aaaaaa"><li>
+			<div class="nav-tu"><img src="images/nav1.png" alt=""></div>
+			<div class="nav-tit">优惠套餐</div>
+		</li></a>
+		<a href="aaaaaa"><li>
+			<div class="nav-tu"><img src="images/nav2.png" alt=""></div>
+			<div class="nav-tit">促销靓号</div>
+		</li></a>
+		<a href="aaaaaa"><li>
+			<div class="nav-tu"><img src="images/nav3.png" alt=""></div>
+			<div class="nav-tit">热门活动</div>
+		</li></a>
+		<a href="aaaaaa"><li>
+			<div class="nav-tu"><img src="images/nav4.png" alt=""></div>
+			<div class="nav-tit">办理攻略</div>
+		</li></a>
+		<a href="aaaaaa"><li style="margin-bottom: 3%;">
+			<div class="nav-tu"><img src="images/nav5.png" alt=""></div>
+			<div class="nav-tit">核心功能</div>
+		</li></a>
+		<a href="aaaaaa"><li style="margin-bottom: 3%;">
+			<div class="nav-tu"><img src="images/nav6.png" alt=""></div>
+			<div class="nav-tit">信通产品</div>
+		</li></a>
+		<a href="aaaaaa"><li style="margin-bottom: 3%;">
+			<div class="nav-tu"><img src="images/nav7.png" alt=""></div>
+			<div class="nav-tit">信通优势</div>
+		</li></a>
+		<a href="aaaaaa"><li style="margin-bottom: 3%;">
+			<div class="nav-tu"><img src="images/nav8.png" alt=""></div>
+			<div class="nav-tit">联系我们</div>
+		</li></a>
+		<div class="clearB"></div>
+	</ul>
+</div>
+
+
+<div class="advantage">
+	
+	<div class="advantage-o">
+		<div class="ys-tit">品牌优势</div>
+		<div class="ys-cont">12年领导品牌<br>世界500强企业选择</div>
+		<div class="ys-img"><img src="images/ad1.png" alt=""></div>
+	</div>
+
+	<div class="advantage-o" style="margin: 0 3.5%;">
+		<div class="ys-tit">品牌优势</div>
+		<div class="ys-cont">12年领导品牌<br>世界500强企业选择</div>
+		<div class="ys-img"><img src="images/ad2.png" alt=""></div>
+	</div>
+
+	<div class="advantage-o">
+		<div class="ys-tit">品牌优势</div>
+		<div class="ys-cont">12年领导品牌<br>世界500强企业选择</div>
+		<div class="ys-img"><img src="images/ad3.png" alt=""></div>
+	</div>
+<div class="clearB"></div>
+</div>
+
+<div class="choose">
+	
+	<div class="x-title">他们都选择了信通网赢</div>
+
+	<div class="more" id="prev4">
+		<div class="zi">更多</div>
+		<div class="fh">&gt;</div>
+	</div>
+
+</div>
+	<div class="clearB"></div>
+	<hr class="hr">
+
+
+<!-- <input value="下一组" id="next4" type="button"> -->
+<div id="wrap4" class="wrap" style="max-width: 750px; width: 100%;">
+    <ul>
+        <li><img src="images/cus1.png" alt=""></li>
+        <li><img src="images/cus2.png" alt=""></li>
+        <li><img src="images/cus3.png" alt=""></li>
+        <li><img src="images/cus4.png" alt=""></li>
+        <li><img src="images/cus5.png" alt=""></li>
+        <li><img src="images/cus6.png" alt=""></li>
+        <li><img src="images/cus7.png" alt=""></li>
+        <li><img src="images/cus8.png" alt=""></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+    $(function() {
+        $('#wrap4').marquee({
+            auto: false,
+            speed: 1000,
+            showNum: 4,
+            stepLen: 4,
+            prevElement: $('#prev4'),
+            nextElement: $('#next4')
+        });
+    })
+</script>
+
+
+<div style="padding: 10px 0; width: 100%; background-color: #f5f5f5; margin-top: 3%;"></div>
+
+
+<div class="mfhq">
+	
+	<div class="mf-tit">免费获取400电话专属服务</div>
+
+</div>
+	<div class="clearB"></div>
+	<hr class="hr">
+
+
+
+<div class="zsfw">
+	
+	<div class="nty">
+		<div class="mingcheng">您的姓名：</div>
+		<div class="mc-input"><input type="text" name=""></div>
+	</div>
+	<div class="nty">
+		<div class="mingcheng">联系电话：</div>	
+		<div class="mc-input"><input type="text" name=""></div>
+	</div>
+	<div class="nty">
+		<div class="mingcheng" style="letter-spacing: 8.25px;">验证码：</div>
+		<div class="mc-input"><input type="text" name="" style="width: 50%; float: left;"><img src="http://dx.union400.com/public/verCode.php"  style="width:30%; position: relative; top: -25px; right: -102px;"  alt=""></div>
+	</div>
+<div class="clearB"></div>
+	<div class="fg"><a href=""><img src="images/fg.png" alt=""></a></div>
+
+</div>
+
+
+<div style="padding: 10px 0; width: 100%; background-color: #f5f5f5; margin-top: 3%;"></div>
+
+
+<div class="footer">
+	<p class="p1">400电话咨询热线：<span style="color: #ffffff;">4006-86-4006</span></p>
+	<p class="p2">北京云端商机通信技术有限公司 版权所有 京ICP备15011057号-1</p>
+</div>
+
+
+<div class="footer-fix">
+	
+	<div class="f1"><a href="" title=""><img src="images/fix1.png" alt="">&nbsp;&nbsp;促销活动</a></div>
+	<div class="f1"><a href="" title=""><img src="images/fix2.png" alt="">&nbsp;&nbsp;优惠套餐</a></div>
+	<div class="f1" style="background-color: #ea4079; width: 33.4%;"><a href="" title="" style="color: #ffffff; font-size: 1.25rem;">在线咨询</a></div>
+
+</div>
+
+
+</div>
+
+
+</body>
+</html>
