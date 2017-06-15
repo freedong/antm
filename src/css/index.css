@@ -21,17 +21,21 @@
 
 
 .wrap{ max-width: 750px; width: 100% !important; margin: 10px auto 0; }
-.wrap ul li{ display: block; width: 140px; height: 140px; margin-left: 38px; }
+.wrap ul li{ display: block; width: 73px; height: 80px; margin-left: 10px; }
 
-.choose{ max-width: 750px;  width: 100%; height: 76px; border-bottom: 1px solid #f9f9f9; }
+.wrap ul li img{
+	width: 100%;
+}
 
-.x-title{ float: left; font-size: 1.125rem; color: #333333; line-height: 76px; margin-left: 2.5%; }
-.more{ float: right; cursor: pointer; line-height: 76px; margin-right: 2.5%;}
+.choose{ max-width: 750px;  width: 100%; height: 45px; border-bottom: 1px solid #ececec; }
+
+.x-title{ float: left; font-size: 1.125rem; color: #333333; line-height: 40px; margin-left: 2.5%; }
+.more{ float: right; cursor: pointer; line-height: 40px; margin-right: 2.5%;}
 .zi{ float: left; font-size: 1.125rem; color: #999999;}
-.fh{float: left; width: 30px; height: 30px; background-color: #e0316c; border-radius: 30px; text-align: center; margin-top: 1.5rem; line-height: 28px; font-size: 1.8rem; color: #fff; 
+.fh{float: left; width: 30px; height: 30px; background-color: #e0316c; border-radius: 30px; text-align: center; margin-top: 0.5rem; line-height: 28px; font-size: 1.8rem; color: #fff;
 	margin-left: 10px; padding-left: 2px;}
 
-.hr{display: block; width: 56px; border: 4px solid #d92763; float: left; position: relative; top: -16px; left: 20px;}
+.hr{display: block; width: 30px; border: 2px solid #d92763; float: left; position: relative; top: -13px; left: 12px;}
 
 
 .mfhq{ max-width: 750px;  width: 100%; height: 76px; border-bottom: 1px solid #f9f9f9; }
