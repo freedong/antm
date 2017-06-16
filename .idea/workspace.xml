@@ -47,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="核心功能.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="核心功能.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/核心功能.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.382353">
-              <caret line="229" column="25" selection-start-line="229" selection-start-column="25" selection-end-line="229" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.45169082">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -71,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="function.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/function.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5091352">
+            <state vertical-scroll-proportion="-5.5733333">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -190,8 +190,8 @@
         <option value="$PROJECT_DIR$/src/css/blgl.css" />
         <option value="$PROJECT_DIR$/src/办理攻略.html" />
         <option value="$PROJECT_DIR$/src/css/public.css" />
-        <option value="$PROJECT_DIR$/src/核心功能.html" />
         <option value="$PROJECT_DIR$/src/css/function.css" />
+        <option value="$PROJECT_DIR$/src/核心功能.html" />
       </list>
     </option>
   </component>
@@ -583,10 +583,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/function.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5733333">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/核心功能.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.382353">
-          <caret line="229" column="25" selection-start-line="229" selection-start-column="25" selection-end-line="229" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.45169082">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -602,14 +610,6 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#17;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/function.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5091352">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
