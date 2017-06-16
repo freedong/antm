@@ -2,22 +2,60 @@
 /* CSS Document */
 
 
-.banner5{ width: 100%;height: auto; margin: 24px auto 0;}
+.banner5{ width: 100%;height: auto; margin: 0px auto 0;}
 .banner5 img{ width: 100%; }
 
 
+/*.wrap{ max-width: 750px; width: 100% !important; margin: 10px auto 0; }
+.wrap ul li{ display: block; width: 140px; height: 140px; margin-left: 38px; }*/
+
+
 .wrap{ max-width: 750px; width: 100% !important; margin: 10px auto 0; }
-.wrap ul li{ display: block; width: 140px; height: 140px; margin-left: 38px; }
+.wrap ul li{ display: block; width: 73px; height: 80px; margin-left: 10px; }
 
-.choose{ max-width: 750px;  width: 100%; height: 76px; border-bottom: 1px solid #f9f9f9; }
+.wrap ul li img{
+	width: 100%;
+}
 
-.x-title{ float: left; font-size: 28px; color: #333333; line-height: 76px; margin-left: 2.5%; }
+
+
+
+/*.choose{ max-width: 750px;  width: 100%; height: 45px; border-bottom: 1px solid #ececec; }
+
+.x-title{ float: left; font-size: 1.125rem; color: #333333; line-height: 40px; margin-left: 2.5%; }
 .more{ float: right; cursor: pointer; line-height: 76px; margin-right: 2.5%;}
 .zi{ float: left; font-size: 1.425rem; color: #999999;}
 .fh{float: left; width: 30px; height: 30px; background-color: #e0316c; border-radius: 30px; text-align: center; margin-top: 1.5rem; line-height: 28px; font-size: 1.8rem; color: #fff; 
 	margin-left: 10px; padding-left: 2px;}
 
-.hr{display: block; width: 56px; border: 4px solid #d92763; float: left; position: relative; top: -16px; left: 20px;}
+.hr{display: block; width: 30px; border: 2px solid #d92763; float: left; position: relative; top: -13px; left: 10px;}*/
+
+
+
+
+
+
+.choose{ max-width: 750px;  width: 100%; height: 45px; border-bottom: 1px solid #ececec; }
+
+.x-title{ float: left; font-size: 1.125rem; color: #333333; line-height: 40px; margin-left: 2.5%; }
+.more{ float: right; cursor: pointer; line-height: 40px; margin-right: 2.5%;}
+.zi{ float: left; font-size: 1.125rem; color: #999999;}
+.fh{float: left; width: 30px; height: 30px; background-color: #e0316c; border-radius: 30px; text-align: center; margin-top: 0.5rem; line-height: 28px; font-size: 1.8rem; color: #fff;
+	margin-left: 10px; padding-left: 2px;}
+
+.hr{display: block; width: 30px; border: 2px solid #d92763; float: left; position: relative; top: -13px; left: 12px;}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .mfhq{ max-width: 750px;  width: 100%; height: 76px; border-bottom: 1px solid #f9f9f9; }
@@ -26,35 +64,54 @@
 
 .gndlb-wai{ width:100%; height: auto; background-color: #f5f5f5; padding-top: 3%; padding-bottom: 3%;}
 .dlb-nei{ width:94.6%; height: auto; border: 1px solid #f5f5f5; border-radius: 10px; background-color: #fff; margin: 0 auto;}
-.dlb-tit{ width: 100%; height: 79px; border-bottom: 1px solid #ececec; line-height: 79px; text-align: center; font-size: 1.75rem; }
+.dlb-tit{ width: 100%; height: 50px; border-bottom: 1px solid #ececec; line-height: 50px; text-align: center; font-size: 1rem; }
 
-.sygn{ width: 90%;  height: auto; font-size: 1.625rem; ;color: #666666; margin: 3% auto 0; line-height: 40px; padding-bottom: 17px;}
+.sygn{ width: 90%;  height: auto; font-size: 1rem; ;color: #666666; margin: 3% auto 0; line-height: 24px; padding-bottom: 17px;text-align: justify;}
 
 .xtdjgn{ width: 90%; height: auto; margin: 30px auto 0; }
 
 .djgn{ width: 100%; height: auto; margin:0 auto 15px; }
-.dj-tu{ width: 8%; height: auto; float: left; margin-top: 2.5%;}
+.dj-tu{ width: 12%; height: auto; float: left; margin-top: 2.5%;}
 .dj-tu img{ width: 100%; }
-.dj-wen{ float: right; width: 90%; height: auto; }
+.dj-wen{ float: right; width: 84%; height: auto; }
 
-.dj-wwen{ font-size: 1.625rem; color: #999999;line-height: 40px; margin-top: 12px; border-bottom: 1px solid #ececec; padding-bottom: 13px; }
+.dj-wwen{ font-size:0.875rem; color: #999999;line-height: 24px; /*margin-top: 12px;*/ border-bottom: 1px solid #ececec; padding-bottom: 8px; }
 
 .tesys{ width: 95%; height: auto; margin: 25px auto 0; }
 
 .tsyous1{ width: 33%; height: auto; float: left; }
 .ys-tu{width: 100%; height: auto; text-align: center;}
-.ys-wen{ width: 86%; font-size: 1.25rem; color: #999999; margin: 10% auto 0; height: auto; line-height: 30px; }
+.ys-tu img{
+	width: 70%;
+}
+
+.ys-wen{ width: 86%; font-size: 0.875rem; color: #999999; margin: 10% auto 0; height: auto; line-height: 24px; }
 
 .djgn-xin{ width: 88.6%;height: auto; margin: 25px auto 0; }
 
 
 
+.mingcheng {
+	width: 25%;
+	height: 45px;
+	float: left;
+	font-size: 1.125rem;
+	color: #333333;
+	line-height: 45px;
+}
+
+.mc-input {
+	float: left;
+	width: 73%;
+	height: 35px;
+	border-bottom: 1px solid #ececec;
+}
 
 
 
-
-
-
+.dj-wttit{
+	font-size: 1rem;
+}
 
 
 

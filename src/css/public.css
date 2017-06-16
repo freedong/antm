@@ -121,8 +121,7 @@ a{text-decoration:none;color: #636363; }
 
 
 .mc-input input:focus{
-    border: 1px solid transparent;
-    background-color: transparent;
+    border: none;
 }
 .fg{ width: 100%; height: auto; margin: 5px auto 0; text-align: center; }
 .fg img{ width: 40%; }
