@@ -37,7 +37,7 @@
 .right-bz{ width: 60%; height: 150px; float: left; margin-left: 0px; margin-top: 0px;border:1px solid #ececec;padding: 0 20px;}
 .bztit{text-align: left !important; font-size: 1rem; color: #333333;margin-top: 10px;}
 .bztui{ margin-top: 5px; }
-.bztui div{ text-align: left !important; font-size: 0.75rem; color: #666666; margin-bottom: 0px;}
+.bztui div{ text-align: left !important; font-size: 0.75rem; color: #666666; margin-bottom: 0px;line-height: 20px;}
 
 .liuchongli{ width: 94.6%; height: 270px; border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
 
