@@ -93,7 +93,9 @@ a{text-decoration:none;color: #636363; }
 .f1{ width: 33.3%; float: left; height: 100%; text-align: center; line-height: 70px; }
 .f1 a{ font-size: 1.125rem; color: #666666; }
 
-
+.f1 a img{
+    width: 20%;
+}
 
 .zsfw{ width: 86.6%; height: auto; margin: 5% auto 0;}
 .nty{ width: 100%; height: 45px; /*margin-bottom: 35px;*/}
@@ -123,7 +125,7 @@ a{text-decoration:none;color: #636363; }
     background-color: transparent;
 }
 .fg{ width: 100%; height: auto; margin: 5px auto 0; text-align: center; }
-.fg img{ width: 35%; }
+.fg img{ width: 40%; }
 
 .top{ max-width: 750px; height: 60px; width: 100%; background-color: #d92763; }
 .go-back{ color: #ffffff; font-size: 1.25rem; float: left; position: relative; top: 18px; left: 20px;}
