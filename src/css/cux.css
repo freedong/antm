@@ -49,15 +49,15 @@
 .num-show .ns{ width: 33%; float: left; text-align: center; line-height: 38px; font-size: 0.875rem; color: #666666; }
 
 
-.tab{ width:95%; height: 325px; margin:0 auto;}
+.tab{ width:95%; height: 285px; margin:0 auto;}
 .tab-hd { width: 100%; overflow:hidden; zoom:1;}
 .tab-hd li{ float:left; width:33%; color:#666666; height: 40px; line-height: 40px; font-size: 1rem; text-align:center; cursor:pointer; border:1px solid #999999;}
 .tab-hd li.active{ background:#d92763; color: #fff; border:1px solid #d92763;}
-.tab-bd li{ width: 100%;  height: 200px; display:none; background-color: #fe5f94; border-top: 1px solid #fe5f94;}
+.tab-bd li{ width: 100%;  height: 160px; display:none; background-color: #fe5f94; border-top: 1px solid #fe5f94;}
 .tab-bd li.thisclass{ display:list-item; border-top: 1px solid #fe5f94;}
 
 
-.num-show1{ width: 93.6%; height: 38px; border: 1px solid #e289a7; margin: 20px auto 0; }
+.num-show1{ width: 93.6%; height: 38px; border: 1px solid #e289a7; margin: 10px auto 0; }
 .num-show1 .ns1{ width: 33%; float: left; text-align: center; line-height: 38px; font-size: 1rem; color: #ffffff; }
 .fg2{ width: 100%; height: auto; margin: 10px auto 0; text-align: center; }
 .fg2 img{ width: 45%; }
