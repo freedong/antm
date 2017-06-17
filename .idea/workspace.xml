@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="public.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="public.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/css/public.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.39285713">
+              <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -76,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xtys.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="xtys.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/xtys.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43539">
-              <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+            <state vertical-scroll-proportion="-13.081081">
+              <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -136,7 +136,6 @@
         <option value="$PROJECT_DIR$/src/热门活动.html" />
         <option value="$PROJECT_DIR$/src/css/blgl.css" />
         <option value="$PROJECT_DIR$/src/办理攻略.html" />
-        <option value="$PROJECT_DIR$/src/css/public.css" />
         <option value="$PROJECT_DIR$/src/css/function.css" />
         <option value="$PROJECT_DIR$/src/css/hot.css" />
         <option value="$PROJECT_DIR$/src/css/product.css" />
@@ -146,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/核心功能.html" />
         <option value="$PROJECT_DIR$/src/信通优势.html" />
         <option value="$PROJECT_DIR$/src/css/xtys.css" />
+        <option value="$PROJECT_DIR$/src/css/public.css" />
       </list>
     </option>
   </component>
@@ -606,14 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/public.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/images/z_xtwy.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -684,8 +676,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/xtys.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43539">
-          <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+        <state vertical-scroll-proportion="-13.081081">
+          <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/public.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39285713">
+          <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
           <folding />
         </state>
       </provider>

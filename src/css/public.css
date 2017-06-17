@@ -165,10 +165,10 @@ a{text-decoration:none;color: #636363; }
 }
 @media screen and (min-width: 360px){
     body{
-        font-size: 18px;
+        font-size: 87.5%;
     }
     html{
-        font-size: 18px;
+        font-size: 87.5%;
     }
 }
 @media screen and (min-width: 375px){
