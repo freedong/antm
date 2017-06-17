@@ -190,7 +190,8 @@ a{text-decoration:none;color: #636363; }
         font-size: 100%;
     }
 
-    .cxlh.tab-hd li.z_li{
+    /*.cxlh*/
+    .tab-hd li.z_li{
         border-left: none;
         border-right: none;
         width: 32.88%;
