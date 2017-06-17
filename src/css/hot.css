@@ -14,7 +14,7 @@
 .wenz-num{ width: 100%; height: 210px; margin: 10px auto; }
 .wenz{ width:90%; height: auto; font-size: 0.875rem; color: #999999;text-align: justify;/*margin-left: 20px;*/padding: 0 18px;}
 
-.wnum{ width: 100%; height: 30px; border:1px solid #e3e3e3; margin-top: 8px; }
+.wnum{ width: 98%; height: 30px; border:1px solid #e3e3e3; margin-top: 8px;margin: 0 auto; }
 .xwn{ width: 33%; height: 30px; text-align: center; line-height: 30px; float: left; font-size: 0.875rem; color: #666666; }
 
 .fg2{ width: 100%; height: auto; margin: 8px auto 0; text-align: center; }
@@ -24,7 +24,7 @@
 .dazui img{ width: 100%; }
 .erchongli{ width: 94.6%; height: 270px; border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
 
-.sanchongli{ width: 94.6%; height: 270px; margin: 0 auto;}
+.sanchongli{ width: 94.6%; height: 270px; margin: 0 auto;background-color: #ffffff;border-radius: 6px;}
 .wuchongli{ width: 94.6%; height: 340px; border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
 
 .bzban{ width: 100%; height: 112px; border:1px solid #f9f9f9; margin: 15px auto 0; }
