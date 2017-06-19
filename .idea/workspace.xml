@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="public.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="public.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/css/public.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.486486">
-              <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.74388826">
+              <caret line="363" column="5" selection-start-line="363" selection-start-column="5" selection-end-line="363" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -51,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="办理攻略.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="办理攻略.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/办理攻略.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3599034">
-              <caret line="90" column="60" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+            <state vertical-scroll-proportion="-5.6764708">
+              <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -175,10 +175,10 @@
         <option value="$PROJECT_DIR$/src/优惠套餐.html" />
         <option value="$PROJECT_DIR$/src/信通产品.html" />
         <option value="$PROJECT_DIR$/src/联系我们.html" />
-        <option value="$PROJECT_DIR$/src/css/public.css" />
         <option value="$PROJECT_DIR$/src/热门活动.html" />
         <option value="$PROJECT_DIR$/src/css/hot.css" />
         <option value="$PROJECT_DIR$/src/办理攻略.html" />
+        <option value="$PROJECT_DIR$/src/css/public.css" />
       </list>
     </option>
   </component>
@@ -895,14 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/public.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.486486">
-          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/热门活动.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.0588236">
@@ -921,13 +913,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/办理攻略.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3599034">
-          <caret line="90" column="60" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+        <state vertical-scroll-proportion="-5.6764708">
+          <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/public.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74388826">
+          <caret line="363" column="5" selection-start-line="363" selection-start-column="5" selection-end-line="363" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
