@@ -21,11 +21,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="public.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="public.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/public.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3329453">
-              <caret line="91" column="119" selection-start-line="91" selection-start-column="119" selection-end-line="91" selection-end-column="119" />
+            <state vertical-scroll-proportion="-12.486486">
+              <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="热门活动.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/热门活动.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.0588236">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hot.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/css/hot.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29464287">
+              <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -130,13 +150,11 @@
         <option value="$PROJECT_DIR$/src/css/index.css" />
         <option value="$PROJECT_DIR$/src/促销靓号.html" />
         <option value="$PROJECT_DIR$/src/css/cux.css" />
-        <option value="$PROJECT_DIR$/src/css/hot.css" />
         <option value="$PROJECT_DIR$/src/办理攻略.html" />
         <option value="$PROJECT_DIR$/src/css/blgl.css" />
         <option value="$PROJECT_DIR$/src/css/function.css" />
         <option value="$PROJECT_DIR$/src/核心功能.html" />
         <option value="$PROJECT_DIR$/src/css/product.css" />
-        <option value="$PROJECT_DIR$/src/热门活动.html" />
         <option value="$PROJECT_DIR$/src/css/xtys.css" />
         <option value="$PROJECT_DIR$/src/css/taocan.css" />
         <option value="$PROJECT_DIR$/src/信通优势.html" />
@@ -145,6 +163,8 @@
         <option value="$PROJECT_DIR$/src/信通产品.html" />
         <option value="$PROJECT_DIR$/src/联系我们.html" />
         <option value="$PROJECT_DIR$/src/css/public.css" />
+        <option value="$PROJECT_DIR$/src/热门活动.html" />
+        <option value="$PROJECT_DIR$/src/css/hot.css" />
       </list>
     </option>
   </component>
@@ -665,14 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/hot.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.513514">
-          <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/促销靓号.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.0882354">
@@ -729,14 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.589057">
           <caret line="111" column="15" selection-start-line="111" selection-start-column="15" selection-end-line="111" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/热门活动.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45780346">
-          <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -889,8 +893,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/public.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3329453">
-          <caret line="91" column="119" selection-start-line="91" selection-start-column="119" selection-end-line="91" selection-end-column="119" />
+        <state vertical-scroll-proportion="-12.486486">
+          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/热门活动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0588236">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/hot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29464287">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
           <folding />
         </state>
       </provider>
