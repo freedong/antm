@@ -21,10 +21,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="public.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="public.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/css/public.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.7297297">
+            <state vertical-scroll-proportion="0.3073341">
               <caret line="129" column="86" selection-start-line="129" selection-start-column="86" selection-end-line="129" selection-end-column="86" />
               <folding />
             </state>
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="优惠套餐.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="优惠套餐.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/优惠套餐.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.452237">
+            <state vertical-scroll-proportion="-5.42029">
               <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
               <folding>
                 <element signature="n#style#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -176,8 +176,8 @@
         <option value="$PROJECT_DIR$/src/首页.html" />
         <option value="$PROJECT_DIR$/src/css/index.css" />
         <option value="$PROJECT_DIR$/src/css/taocan.css" />
-        <option value="$PROJECT_DIR$/src/css/public.css" />
         <option value="$PROJECT_DIR$/src/优惠套餐.html" />
+        <option value="$PROJECT_DIR$/src/css/public.css" />
       </list>
     </option>
   </component>
@@ -769,17 +769,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/public.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7297297">
-          <caret line="129" column="86" selection-start-line="129" selection-start-column="86" selection-end-line="129" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/优惠套餐.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.452237">
+        <state vertical-scroll-proportion="-5.42029">
           <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
           <folding>
             <element signature="n#style#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -790,6 +782,14 @@
             <element signature="n#style#0;n#div#3;n#div#17;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#19;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/public.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3073341">
+          <caret line="129" column="86" selection-start-line="129" selection-start-column="86" selection-end-line="129" selection-end-column="86" />
+          <folding />
         </state>
       </provider>
     </entry>
