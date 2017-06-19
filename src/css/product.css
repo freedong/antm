@@ -81,7 +81,23 @@
 
 
 
+.more{ float: right; cursor: pointer; line-height: 42px; margin-right: 2.5%;}
+.zi{ float: left; font-size: 1.125rem; color: #999999;}
 
+.fh {
+    float: left;
+    width: 20px;
+    height: 21px;
+    background-color: #e0316c;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 0.7rem;
+    line-height: 19px;
+    font-size: 1.125rem;
+    color: #fff;
+    margin-left: 5px;
+    padding-left: 2px;
+}
 
 
 

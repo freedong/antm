@@ -90,11 +90,20 @@ a{text-decoration:none;color: #636363; }
 
 
 .footer-fix{ max-width: 750px; width: 100%; height: 60px;position: fixed; bottom: 0; background-color: #fff; }
-.f1{ width: 33.3%; float: left; height: 100%; text-align: center; line-height: 60px; }
+.f1{ width: 33.3%; float: left; height: 100%; text-align: center; line-height: 60px;}
 .f1 a{ font-size: 1.125rem; color: #666666; }
 
 .f1 a img{
     width: 20%;
+}
+
+.sx{
+    height: 45px;
+    width: 1px;
+    background-color: #d92763;
+    position: absolute;
+    left: 33%;
+    top: 8px;
 }
 
 .zsfw{ width: 86.6%; height: auto; margin: 5% auto 0;}

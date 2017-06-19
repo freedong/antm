@@ -2,17 +2,17 @@
 /* CSS Document */
 
 .yi-cl{ width: 100%; /*height: 455px;*/ background-color: #f5f5f5; border-top:1px solid #f5f5f5; margin: 0px auto 0; }
-.hdxq{ width: 100%; height: 81px;  text-align: center;}
-.hdxq img{ margin-top: 14px; }
+.hdxq{ width: 100%; /*height: 81px; */ text-align: center;}
+.hdxq img{ margin-top: 15px;width: 50%; }
 
-.yichongli{ width: 94.6%; height: 375px; border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
+.yichongli{ width: 94.6%; /*height: 375px;*/ border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
 
 .li-tit{ width: 100%; height: 45px; line-height: 45px; border-bottom: 1px solid #ececec; margin-top: 15px;}
 .dali-t{ float: left; width: 75px; height: 43px; border-bottom:2px solid #d92763; color: #d92763; /*text-align: center;*/ font-size: 1.125rem; margin-left: 20px; }
 .xiaoli-t{ float: left; font-size: 1.125rem; color: #333333; /*margin-left: 10px;*/}
 
-.wenz-num{ width: 100%; height: 210px; margin: 10px auto; }
-.wenz{ width:90%; height: auto; font-size: 0.875rem; color: #999999;text-align: justify;/*margin-left: 20px;*/padding: 0 18px;}
+.wenz-num{ width: 100%; /*height: 210px;*/ padding: 10px 0px; }
+.wenz{ width:90%; height: auto; font-size: 0.875rem; color: #999999;text-align: justify;margin-bottom:10px;padding: 0 18px;}
 
 .wnum{ width: 98%; height: 30px; border:1px solid #e3e3e3; margin-top: 8px;margin: 0 auto; }
 .xwn{ width: 33%; height: 30px; text-align: center; line-height: 30px; float: left; font-size: 0.875rem; color: #666666; }
@@ -20,14 +20,14 @@
 .fg2{ width: 100%; height: auto; margin: 8px auto 0; text-align: center; }
 .fg2 img{ width: 35%; }
 
-.dazui{ width: 69.4%; height: auto; margin: 15px auto 0; }
+.dazui{ width: 69.4%; height: auto; margin: 15px auto; }
 .dazui img{ width: 100%; }
-.erchongli{ width: 94.6%; height: 270px; border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
+.erchongli{ width: 94.6%; /*height: 270px;*/ border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
 
-.sanchongli{ width: 94.6%; height: 270px; margin: 0 auto;background-color: #ffffff;border-radius: 6px;}
-.wuchongli{ width: 94.6%; height: 340px; border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
+.sanchongli{ width: 94.6%; /*height: 270px;*/ margin: 0 auto;background-color: #ffffff;border-radius: 6px;}
+.wuchongli{ width: 94.6%; /*height: 340px;*/ border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
 
-.bzban{ width: 100%; height: 112px; border:1px solid #f9f9f9; margin: 15px auto 0; }
+.bzban{ width: 100%; height: 105px; border:1px solid #f9f9f9; margin: 15px auto 0; }
 .bzban div{ text-align: center; }
 .left-bz{ width: 27.3%; height: 100px; border:1px solid #ececec; float: left;}
 .lbz-t{ width: 100%; height: auto; font-size: 1rem; color: #333333; margin-top: 5px;}
@@ -39,10 +39,10 @@
 .bztui{ margin-top: 5px; }
 .bztui div{ text-align: left !important; font-size: 0.75rem; color: #666666; margin-bottom: 0px;line-height: 20px;}
 
-.liuchongli{ width: 94.6%; height: 210px; border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
+.liuchongli{ width: 94.6%; /*height: 210px;*/ border-left: 1px solid #fff; border-right: 1px solid #fff; margin: 0 auto; background-color: #fff; border-radius: 10px; }
 
 
-.shuomk{ width:100%; height: 200px;  background-color: #f5f5f5; }
+.shuomk{ width:100%; height: 200px;  background-color: #f5f5f5;/*padding-top: 15px;*/ }
 .sh-nr{ width: 96.4%; height: 200px;  background-color: #fff; border-top: 1px solid #fff; margin: 0 auto; border-radius: 10px; }
 
 .xukuang{ width: 95.4%; height: 175px; border:1px dashed #f63375; margin: 12px auto 0; border-radius: 10px; }
@@ -53,7 +53,9 @@
 
 
 
-
+.mt0{
+    margin-top: 0px;
+}
 
 
 
