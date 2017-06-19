@@ -7,9 +7,11 @@
     <link rel="stylesheet" type="text/css" href="css/public.css">
     <link rel="stylesheet" type="text/css" href="css/index.css">
     <link rel="stylesheet" type="text/css" href="css/contact.css">
+    <link rel="stylesheet" type="text/css" href="css/swiper-3.4.2.min.css">
     <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="js/marquee.js"></script>
     <script type="text/javascript" src="js/pptBox.js"></script>
+    <script type="text/javascript" src="js/swiper-3.4.2.min.js"></script>
 </head>
 <body>
 
@@ -31,7 +33,7 @@
 
 
     <!--banner-->
-    <div class="sy_banner">
+    <!--<div class="sy_banner">
         <div id="xxx">
             <script>
                 var box = new PPTBox();
@@ -45,6 +47,25 @@
                 box.show();
             </script>
         </div>
+    </div>-->
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="images/banner.png" style="width: 100%"></div>
+            <div class="swiper-slide"><img src="images/banner1.png" style="width: 100%"></div>
+            <div class="swiper-slide"><img src="images/banner2.png" style="width: 100%"></div>
+            <!--<div class="swiper-slide">Slide 4</div>
+            <div class="swiper-slide">Slide 5</div>
+            <div class="swiper-slide">Slide 6</div>
+            <div class="swiper-slide">Slide 7</div>
+            <div class="swiper-slide">Slide 8</div>
+            <div class="swiper-slide">Slide 9</div>
+            <div class="swiper-slide">Slide 10</div>-->
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination" style="bottom: 0px!important;"></div>
+        <!-- Add Arrows -->
+        <!--<div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>-->
     </div>
 
 
@@ -164,6 +185,19 @@
 
 </div>
 
+
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        paginationClickable: true,
+        spaceBetween: 30,
+        centeredSlides: true,
+        autoplay: 2500,
+        autoplayDisableOnInteraction: false
+    });
+</script>
 
 </body>
 </html>
