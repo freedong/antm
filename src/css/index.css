@@ -2,7 +2,13 @@
 /* CSS Document */
 
 .nav{ max-width: 750px; width: 100%; height: auto;margin-top: 20px; }
-.nav ul li{ width: 25%; float: left; margin-bottom: 5%; }
+.nav ul li{ /*width: 25%; */float: left; margin-bottom: 5%; }
+
+.nav ul a{
+	width: 24%;
+	display: inline-block;
+}
+
 .nav-tu{ width: 100%; height: auto; text-align: center; }
 
 .nav-tu img{
