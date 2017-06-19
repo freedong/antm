@@ -41,12 +41,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hot.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hot.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/hot.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29464287">
+            <state vertical-scroll-proportion="0.0">
               <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="办理攻略.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/办理攻略.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3599034">
+              <caret line="90" column="60" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,7 +164,6 @@
         <option value="$PROJECT_DIR$/src/css/index.css" />
         <option value="$PROJECT_DIR$/src/促销靓号.html" />
         <option value="$PROJECT_DIR$/src/css/cux.css" />
-        <option value="$PROJECT_DIR$/src/办理攻略.html" />
         <option value="$PROJECT_DIR$/src/css/blgl.css" />
         <option value="$PROJECT_DIR$/src/css/function.css" />
         <option value="$PROJECT_DIR$/src/核心功能.html" />
@@ -165,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/css/public.css" />
         <option value="$PROJECT_DIR$/src/热门活动.html" />
         <option value="$PROJECT_DIR$/src/css/hot.css" />
+        <option value="$PROJECT_DIR$/src/办理攻略.html" />
       </list>
     </option>
   </component>
@@ -711,16 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/办理攻略.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9245284">
-          <caret line="200" column="26" selection-start-line="200" selection-start-column="4" selection-end-line="200" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/swiper-3.4.2.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30769232">
@@ -909,9 +913,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/hot.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29464287">
+        <state vertical-scroll-proportion="0.0">
           <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/办理攻略.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3599034">
+          <caret line="90" column="60" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
