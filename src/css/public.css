@@ -127,7 +127,7 @@ a{text-decoration:none;color: #636363; }
 .fg img{ width: 40%; }
 
 .top{ max-width: 750px; height: 45px; width: 100%; background-color: #d92763; }
-.go-back{ color: #ffffff; font-size: 1.25rem; float: left; position: relative; top: 10px; left: 20px;}
+.go-back{ color: #ffffff; font-size: 1.25rem; float: left; position: relative; top: 12px; left: 20px;}
 .back-title{ /*float: left;*/ text-align: center; width: 100%; font-size: 1.25rem; color: #ffffff; line-height: 45px;margin-left: -35px;}
 
 
