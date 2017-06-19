@@ -166,10 +166,10 @@ a{text-decoration:none;color: #636363; }
 /*适配*/
 @media screen and (min-width: 320px){
     body{
-        font-size: 18px;
+        font-size: 75%;
     }
     html{
-        font-size: 18px;
+        font-size: 75%;
     }
     .cxlh.tab-hd li.z_li{
         border-left: none;
