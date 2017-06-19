@@ -109,6 +109,10 @@
     width: 100%;
 }
 
+.wrap.wrap3 ul li{
+    height: 120px;
+}
+
 
 .more{ float: right; cursor: pointer; line-height: 42px; margin-right: 2.5%;}
 .zi{ float: left; font-size: 1.125rem; color: #999999;}
